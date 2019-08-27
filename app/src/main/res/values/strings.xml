@@ -3,7 +3,7 @@
     <string name="title_activity_maps">Map</string>
     <string-array name="africa">
         <item>Mount Kilimanjaro, with its three volcanic cones, "Kibo", "Mawenzi", and "Shira", is a dormant volcano in Tanzania. It is the highest mountain in Africa, about 4,900 metres from its base to 5,895 metres above sea level.</item>
-        <item>Kruger National Park, in northeastern South Africa, is one of Africa’s largest game reserves. Its high density of wild animals includes the Big 5: lions, leopards, rhinos, elephants and Buffalos. Hundreds of other mammals make their home here, as do diverse bird species such as vultures, eagles and storks. Mountains, bush plains and tropical forests are all part of the landscape.</item>
+        <item>Kruger National Park, in northeastern South Africa, is one of Africa\’s largest game reserves. Its high density of wild animals includes the Big 5: lions, leopards, rhinos, elephants and Buffalos. Hundreds of other mammals make their home here, as do diverse bird species such as vultures, eagles and storks. Mountains, bush plains and tropical forests are all part of the landscape.</item>
         <item>Victoria Falls is a waterfall in southern Africa on the Zambezi River at the border between Zambia and Zimbabwe.</item>
         <item>The Great Pyramid of Giza is the oldest and largest of the three pyramids in the Giza pyramid complex bordering what is now El Giza, Egypt. It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact.</item>
         <item>Sossusvlei is a salt and clay pan surrounded by high red dunes, located in the southern part of the Namib Desert, in the Namib-Naukluft National Park of Namibia.</item>
@@ -11,7 +11,7 @@
         <item>Diani Beach is a major beach resort on the Indian Ocean coast of Kenya. It is located 30 kilometres south of Mombasa, in the nearby Kwale County.</item>
         <item>The Victoria and Alfred Waterfront in Cape Town is situated on the Atlantic shore, Table Bay Harbour, the City of Cape Town and Table Mountain. Adrian van der Vyver designed the complex.</item>
         <item>The Cradle of Humankind is a Paleoanthropological site about 50 km northwest of Johannesburg, South Africa in the Gauteng province.</item>
-        <item>The Bazaruto Archipelago is a group of 6 islands off the coast of southern Mozambique. They lie within Bazaruto National Park and are known for their white-sand beaches. Bazaruto, with sand dunes, is the largest island. Coral reefs around Magaruque and Santa Carolina islands protect rare marine animals, like dugongs. The wetlands, forests and grasslands of Benguerra Island's interior are home to many bird species.</item>
+        <item>The Bazaruto Archipelago is a group of 6 islands off the coast of southern Mozambique. They lie within Bazaruto National Park and are known for their white-sand beaches. Bazaruto, with sand dunes, is the largest island. Coral reefs around Magaruque and Santa Carolina islands protect rare marine animals, like dugongs. The wetlands, forests and grasslands of Benguerra Island\'s interior are home to many bird species.</item>
     </string-array>
 
     <string-array name="asia">
@@ -48,7 +48,7 @@ Fushimi Inari Taisha (伏見稲荷大社) is the head shrine of the god Inari, l
     </string-array>
     <string-array name="australia">
         <item>
-            The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia. It is one of the 20th century's most famous and distinctive buildings.
+            The Sydney Opera House is a multi-venue performing arts centre in Sydney, New South Wales, Australia. It is one of the 20th century\'s most famous and distinctive buildings.
         </item>
         <item>
             The Sydney Harbour Bridge is a steel through arch bridge across Sydney Harbour that carries rail, vehicular, bicycle, and pedestrian traffic between the Sydney central business district and the North Shore.
@@ -63,19 +63,19 @@ Fushimi Inari Taisha (伏見稲荷大社) is the head shrine of the god Inari, l
             Royal Botanic Gardens Victoria are botanic gardens across two sites - Melbourne and Cranbourne. Melbourne Gardens was founded in 1846 when land was reserved on the south side of the Yarra River for a new botanic garden.
         </item>
         <item>
-            Kakadu National Park is an enormous, biodiverse nature reserve in Australia’s Northern Territory. With terrain encompassing wetlands, rivers and sandstone escarpments, it’s home to some 2,000 plant species and wildlife from saltwater crocodiles and flatback turtles to birds.
+            Kakadu National Park is an enormous, biodiverse nature reserve in Australia’s Northern Territory. With terrain encompassing wetlands, rivers and sandstone escarpments, it\’s home to some 2,000 plant species and wildlife from saltwater crocodiles and flatback turtles to birds.
         </item>
         <item>
             Taronga Zoo Sydney is the city zoo of Sydney, New South Wales, Australia and is located on the shores of Sydney Harbour in the suburb of Mosman. It was officially opened on 7 October 1916.
         </item>
         <item>
-            Noosa National Park is a national park in Queensland, Australia, 121 km north of Brisbane. It is situated near Noosa Heads between the Pacific Ocean and the Sunshine Coasts's northern area of urban development and extends southwards, past Lake Weyba to Coolum.
+            Noosa National Park is a national park in Queensland, Australia, 121 km north of Brisbane. It is situated near Noosa Heads between the Pacific Ocean and the Sunshine Coasts\'s northern area of urban development and extends southwards, past Lake Weyba to Coolum.
         </item>
         <item>
             Kings Park is a 4.06-square-kilometre park located on the western edge of the central business district in Perth, Western Australia. The park is a mixture of grassed parkland, botanical gardens and natural bushland on Mount Eliza with two-thirds of the grounds conserved as native bushland.
         </item>
         <item>
-            Sydney Tower is Sydney's tallest structure and the second tallest observation tower in the Southern Hemisphere. The name Sydney Tower has become common in daily usage, however the tower has been known as the Sydney Tower Eye, AMP Tower, Westfield Centrepoint Tower, Centrepoint Tower or just Centrepoint.
+            Sydney Tower is Sydney\'s tallest structure and the second tallest observation tower in the Southern Hemisphere. The name Sydney Tower has become common in daily usage, however the tower has been known as the Sydney Tower Eye, AMP Tower, Westfield Centrepoint Tower, Centrepoint Tower or just Centrepoint.
         </item>
     </string-array>
     <string-array name="europe">
@@ -83,7 +83,7 @@ Fushimi Inari Taisha (伏見稲荷大社) is the head shrine of the god Inari, l
             The Eiffel Tower is a wrought iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.
         </item>
         <item>
-            The Louvre Palace is a former royal palace located on the Right Bank of the Seine in Paris, between the Tuileries Gardens and the church of Saint-Germain l'Auxerrois.
+            The Louvre Palace is a former royal palace located on the Right Bank of the Seine in Paris, between the Tuileries Gardens and the church of Saint-Germain l\'Auxerrois.
         </item>
         <item>
             The Colosseum or Coliseum, also known as the Flavian Amphitheatre, is an oval amphitheatre in the centre of the city of Rome, Italy. Built of travertine, tuff, and brick-faced concrete, it is the largest amphitheatre ever built.
@@ -95,7 +95,7 @@ Fushimi Inari Taisha (伏見稲荷大社) is the head shrine of the god Inari, l
             The Basílica i Temple Expiatori de la Sagrada Família is a large unfinished Roman Catholic church in Barcelona, designed by Catalan architect Antoni Gaudí.
         </item>
         <item>
-            The Papal Basilica of St. Peter in the Vatican, or simply St. Peter's Basilica, is an Italian Renaissance church in Vatican City, the papal enclave within the city of Rome.
+            The Papal Basilica of St. Peter in the Vatican, or simply St. Peter\'s Basilica, is an Italian Renaissance church in Vatican City, the papal enclave within the city of Rome.
         </item>
         <item>
             The Sultan Ahmed Mosque or Sultan Ahmet Mosque (Turkish: Sultan Ahmet Camii) is a historic mosque located in Istanbul, Turkey.
@@ -128,10 +128,10 @@ The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in 
             Horseshoe Falls, also known as Canadian Falls, is the largest of the three waterfalls which collectively form Niagara Falls on the Niagara River along the Canada–United States border.
         </item>
         <item>
-            The Canadian Rockies mountain range spans the provinces of British Columbia and Alberta. With jagged, ice-capped peaks, including towering Mt. Robson, it's a region of alpine lakes, diverse wildlife and outdoor recreation sites.
+            The Canadian Rockies mountain range spans the provinces of British Columbia and Alberta. With jagged, ice-capped peaks, including towering Mt. Robson, it\'s a region of alpine lakes, diverse wildlife and outdoor recreation sites.
         </item>
         <item>
-            Banff National Park (/bænf/) is Canada's oldest national park and was established in 1885.
+            Banff National Park (/bænf/) is Canada\'s oldest national park and was established in 1885.
         </item>
         <item>
             The Columbia River Gorge is a canyon of the Columbia River in the Pacific Northwest of the United States.
@@ -160,7 +160,7 @@ The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in 
             The Museum of Gold is a museum located in Bogotá, Colombia. It is one of the most visited touristic highlights in the country. The museum receives around 500,000 tourists per year.
         </item>
         <item>
-            Lençóis Maranhenses National Park is a protected area on Brazil’s north Atlantic coast. It’s known for its vast desert landscape of tall, white sand dunes and seasonal rainwater lagoons.
+            Lençóis Maranhenses National Park is a protected area on Brazil\’s north Atlantic coast. It\’s known for its vast desert landscape of tall, white sand dunes and seasonal rainwater lagoons.
         </item>
         <item>
             Sugarloaf Mountain is a peak situated in Rio de Janeiro, Brazil, at the mouth of Guanabara Bay on a peninsula that juts out into the Atlantic Ocean.
@@ -172,7 +172,7 @@ The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in 
             Monserrate is a mountain that dominates the city center of Bogotá, the capital city of Colombia. It rises to 3,152 metres above the sea level, where there is a church with a shrine, devoted to El Señor Caído.
         </item>
         <item>
-            Torres del Paine National Park, in Chile’s Patagonia region, is known for its soaring mountains, bright blue icebergs that cleave from glaciers and golden pampas (grasslands) that shelter rare wildlife such as llama-like guanacos.
+            Torres del Paine National Park, in Chile\’s Patagonia region, is known for its soaring mountains, bright blue icebergs that cleave from glaciers and golden pampas (grasslands) that shelter rare wildlife such as llama-like guanacos.
         </item>
     </string-array>
 
@@ -202,7 +202,7 @@ The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in 
         <item>The Great Wall of China</item>
     </string-array>
 
-    <string-array name ="austitles">
+    <string-array name="austitles">
         <item>Sydney Opera House</item>
         <item>Sydney Harbour Bridge</item>
         <item>Darling Harbour</item>
@@ -215,20 +215,20 @@ The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in 
         <item>Sydney Tower Eye</item>
     </string-array>
 
-    <string-array name ="eurotitles">
+    <string-array name="eurotitles">
         <item>Eiffel Tower</item>
         <item>Louvre Museum</item>
         <item>Colosseum</item>
         <item>Acropolis of Athens</item>
         <item>La Sagrada Familia</item>
-        <item>St. Peter's Basilica</item>
+        <item>St. Peters Basilica</item>
         <item>The Blue Mosque</item>
         <item>Charles Bridge</item>
         <item>Trevi Fountain</item>
         <item>Buckingham Palace</item>
     </string-array>
 
-    <string-array name ="namertitles">
+    <string-array name="namertitles">
         <item>Yellowstone National Park</item>
         <item>The Golden Gate Bridge</item>
         <item>Statue Of liberty</item>
@@ -241,7 +241,7 @@ The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in 
         <item>CN Tower</item>
     </string-array>
 
-    <string-array name ="samertitles">
+    <string-array name="samertitles">
         <item>Copacabana</item>
         <item>Machu Picchu</item>
         <item>Iguazu Falls</item>
@@ -255,13 +255,11 @@ The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in 
     </string-array>
 
 
-
-
-
     <string name="title_activity_asia_maps">Map</string>
     <string name="title_activity_australia_maps">Map</string>
     <string name="title_activity_europe_maps">Map</string>
     <string name="title_activity_namerica_maps">Map</string>
     <string name="title_activity_samerica_maps">Map</string>
+    <string name="title_activity_currentlocation">Map</string>
 
 </resources>

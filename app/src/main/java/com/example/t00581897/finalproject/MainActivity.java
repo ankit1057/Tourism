@@ -6,9 +6,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.CardView;
 import android.view.View;
+import android.widget.Button;
 import android.widget.GridLayout;
 
 public class MainActivity extends AppCompatActivity{
+    private Button button3;
 
     GridLayout mainGrid;
 
@@ -17,6 +19,16 @@ public class MainActivity extends AppCompatActivity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        button3=(Button) findViewById(R.id.button3);
+        button3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                //openCurrentlocation();
+                startActivity(new Intent(MainActivity.this,Currentlocation.class));
+            }
+        });
+
+
 
         mainGrid = (GridLayout) findViewById(R.id.main_Grid);
 
